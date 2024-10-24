@@ -7,6 +7,5 @@ altrnatives : AWS,bitbucket,gitlab
 git add .>>> add the file to the staging alternatives(filr is being tracked by git)
 
 git commit -m "message" >>>> to commit the changes in the tracked file
-
-git push origin main >>> pusing the file to the main branch in github repository
+wgfreg
 
